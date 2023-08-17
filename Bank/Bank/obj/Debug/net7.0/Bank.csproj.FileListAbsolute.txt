@@ -1,0 +1,15 @@
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/bin/Debug/net7.0/Bank
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/bin/Debug/net7.0/Bank.deps.json
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/bin/Debug/net7.0/Bank.runtimeconfig.json
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/bin/Debug/net7.0/Bank.dll
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/bin/Debug/net7.0/Bank.pdb
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/obj/Debug/net7.0/Bank.csproj.AssemblyReference.cache
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/obj/Debug/net7.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfoInputs.cache
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/obj/Debug/net7.0/Bank.AssemblyInfo.cs
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/obj/Debug/net7.0/Bank.csproj.CoreCompileInputs.cache
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/obj/Debug/net7.0/Bank.dll
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/obj/Debug/net7.0/refint/Bank.dll
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/obj/Debug/net7.0/Bank.pdb
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/obj/Debug/net7.0/Bank.genruntimeconfig.cache
+/Users/dungdang/c#/Bài tập Csharp/Bank/Bank/obj/Debug/net7.0/ref/Bank.dll
